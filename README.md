@@ -8,3 +8,7 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 *obs*: clique no subtitulos para ser direcionado aos texto.
 
 ## [Panorama Geral](https://github.com/gustavoramos82/ocorr-nias-cimes/edit/main/Textos/Panorama%20Geral.md)
+
+## Próximos Passos
+
+Agora com o Panorama Geral, O próximo passo é faze uma análise mais local por Estado, e verificar quais tipos de crime são registrados mais ocorrẽncias.
