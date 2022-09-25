@@ -11,4 +11,4 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 
 ## Próximos Passos
 
-Agora com o Panorama Geral, O próximo passo é faze uma análise mais local por Estado, e verificar quais tipos de crime são registrados mais ocorrẽncias.
+Agora com o Panorama Geral, O próximo passo é faze uma análise mais local por Estado, e verificar quais tipos de crime têm mais ocorrẽncias.
