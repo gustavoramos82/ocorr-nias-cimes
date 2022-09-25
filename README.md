@@ -7,7 +7,7 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 
 *obs*: clique no subtitulos para ser direcionado aos texto.
 
-## [Panorama Geral](https://github.com/gustavoramos82/ocorr-nias-cimes/edit/main/Textos/Panorama%20Geral.md)
+## [Panorama Geral](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/Panorama%20Geral.md)
 
 ## Próximos Passos
 
