@@ -12,6 +12,7 @@ Percebe-se que no caso furto e roubo de veículos, o ano de 2017 foi o ano que t
 
 ![image](https://user-images.githubusercontent.com/39843884/193259715-0ba920f3-3634-4b27-8223-ab8156feecf6.png)
 ![image](https://user-images.githubusercontent.com/39843884/193259833-f1463399-fe58-484d-914e-0f9f9baf595a.png)
+
 Podemos ver um aspecto parecido dos dois tipos de ocorrências com o aspecto geral, um crescimento no ano de 2017 e uma diminuição no ano de 2018.
 
 Olhando sobre o mês, temos que o mês de 2017 teve os maior número de ocorrências durante os seis primeiros meses, enquanto a partir de setembro o ano de 2016 teve maior número de casos, sendo que 2017 o maior número de casos foram em março e maio.
