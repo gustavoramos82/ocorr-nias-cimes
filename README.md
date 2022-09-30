@@ -11,7 +11,12 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 
 ## Estados
 
+### Região Norte
+
+
+
 - [Acre](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/An%C3%A1lise%20Ocorr%C3%AAncia%20Acre.md)
+- [Amazonas](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/Analise%20Amazonas.md)
 
 ## Próximos Passos
 
