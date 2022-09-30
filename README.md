@@ -9,6 +9,11 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 
 ## [Panorama Geral](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/Panorama%20Geral.md)
 
+## Estados
+
+- [Acre](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/An%C3%A1lise%20Ocorr%C3%AAncia%20Acre.md)
+
 ## Próximos Passos
 
-Agora com o Panorama Geral, O próximo passo é faze uma análise mais local por Estado, e verificar quais tipos de crime têm mais ocorrẽncias.
+Agora com o Panorama Geral, O próximo passo é faze uma análise mais local por Estado, e verificar quais tipos de crime têm mais ocorrẽncias em cada Estado.
+Aos poucos cada Estado Vai sendo Adicionado.
