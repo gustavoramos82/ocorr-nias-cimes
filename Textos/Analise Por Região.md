@@ -15,7 +15,11 @@ Olhando em tipos de ocorrência, os crimes de furto de veículos e roubo de veí
 
 No nordeste, vemos que os crimes de furtos ta na mesma quantidade que o número de homicídios dolosos.
 
-![image](https://user-images.githubusercontent.com/39843884/193432605-be4f1582-2208-42c5-af96-dc3a16859e77.png)
-![image](https://user-images.githubusercontent.com/39843884/193432633-50a3785d-786b-44e4-906f-ff838d73f590.png)
-![image](https://user-images.githubusercontent.com/39843884/193432660-4d55c604-fdb8-4909-b6c2-3e513ce98f5d.png)
-![image](https://user-images.githubusercontent.com/39843884/193432682-2a5ef07e-09c4-4283-a0f7-d2046fd9cd4c.png)
+![image](https://user-images.githubusercontent.com/39843884/193432905-9e4be946-ca6f-4e87-afe7-44c11557d4e6.png)
+
+![image](https://user-images.githubusercontent.com/39843884/193432916-082e2c35-d375-4da1-a696-e73a432705c9.png)
+
+![image](https://user-images.githubusercontent.com/39843884/193432939-a4649561-3220-4444-ba10-ee2b653ba467.png)
+
+![image](https://user-images.githubusercontent.com/39843884/193432951-76f2dcd0-838e-4f97-92d9-c475cd556d2d.png)
+
