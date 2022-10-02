@@ -9,6 +9,8 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 
 ## [Panorama Geral](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/Panorama%20Geral.md)
 
+## [Análise por Região](https://github.com/gustavoramos82/ocorr-nias-cimes/blob/main/Textos/Analise%20Por%20Regi%C3%A3o.md)
+
 ## Estados
 
 ### Região Norte
@@ -22,3 +24,10 @@ A ideia é verificar se houve uma diminuição ao decorrer dos anos e quais tipo
 
 Agora com o Panorama Geral, O próximo passo é faze uma análise mais local por Estado, e verificar quais tipos de crime têm mais ocorrẽncias em cada Estado.
 Aos poucos cada Estado Vai sendo Adicionado.
+
+
+
+
+
+
+
